@@ -9,6 +9,11 @@ Doe een WCAG test op een bestaande website en rapporteer daar over.
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
+Ik heb de website van 9292.nl getest.
+
+![image](https://user-images.githubusercontent.com/101579892/200335856-cb62b8db-c75c-4312-b305-b9d10c828f0e.png)
+
+
 Toon een screenshot van het Lighthouse Accessibility test resultaat.
 
 Schrijf een een samenvatting van de test bevindingen.
